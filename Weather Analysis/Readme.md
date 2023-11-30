@@ -6,29 +6,25 @@ It records temperature, dew point temperature, relative humidity, wind speed, we
 
     ***********************************************************************************************************
 
-Datasets:
+## Datasets:
+
 The Datasets were downloaded from:
+
 https://www.visualcrossing.com/
+
 More specifically we are going to work with the following csv datasets 
-
 athens 2012-01-01 to 2013-12-31.csv
-
 athens 2014-01-01 to 2015-12-31.csv
-
 athens 2016-01-01 to 2017-12-31.csv
-
 athens 2018-01-01 to 2019-12-31.csv
-
 athens 2020-01-01 to 2021-12-31.csv
-
 athens 2022-01-01 to 2022-12-31.csv
-
 athens 2023-01-01 to 2022-11-21.csv
 
 
 
     ***********************************************************************************************************
-Contents:
+## Contents:
 
     a) Concatenation of the datasets
     b) Make the extra columns for Month,Year,Concat(of month and year) 
@@ -51,14 +47,21 @@ Contents:
     c) Find the temp of 25/12/2023 using sklearn
 
     ***********************************************************************************************************
-Software:
+## Software:
+
 ⚙️Programming Language : Python
 
+
 Libraries used:
+
 Numpy
+
 Pandas
+
 SciPy
+
 MatplotLib
+
 scikit-learn
 
 
