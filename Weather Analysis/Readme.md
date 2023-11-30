@@ -60,10 +60,14 @@ athens 2023-01-01 to 2022-11-21.csv
 
 Libraries used:
 
-Numpy \n
+Numpy
+
 Pandas
+
 SciPy
+
 MatplotLib
+
 scikit-learn
 
 
