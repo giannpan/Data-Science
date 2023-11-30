@@ -57,20 +57,13 @@ athens 2023-01-01 to 2022-11-21.csv
 
 ⚙️Programming Language : Python
 
-
 Libraries used:
 
-Numpy
-
-Pandas
-
-SciPy
-
-MatplotLib
-
-scikit-learn
+1) Numpy
+2) Pandas
+3) SciPy
+4) MatplotLib
+5) scikit-learn
 
 
-
-    ***********************************************************************************************************
 ## Conclusions
