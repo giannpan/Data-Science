@@ -4,7 +4,7 @@ This notebook demonstrates a simple weather analysis of data of a particular loc
 Here, the weather datasets are time-series data set with per-day information about the weather conditions at Athens, Greece. 
 It records temperature, dew point temperature, relative humidity, wind speed, weather description etc.
 
-    ***********************************************************************************************************
+ 
 
 ## Datasets:
 
@@ -29,7 +29,7 @@ athens 2023-01-01 to 2022-11-21.csv
 
 
 
-    ***********************************************************************************************************
+
 ## Contents:
 
     a) Concatenation of the datasets
@@ -52,7 +52,7 @@ athens 2023-01-01 to 2022-11-21.csv
     b) Find the correlation of temperature between other years and this year
     c) Find the temp of 25/12/2023 using sklearn
 
-    ***********************************************************************************************************
+
 ## Software:
 
 ⚙️Programming Language : Python
