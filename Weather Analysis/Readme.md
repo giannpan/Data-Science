@@ -1,4 +1,4 @@
-🌦️ Weather Analysis of Athens during 2012-2023
+#🌦️ Weather Analysis of Athens during 2012-2023
 
 This notebook demonstrates a simple weather analysis of data of a particular location using python. 
 Here, the weather datasets are time-series data set with per-day information about the weather conditions at Athens, Greece. 
