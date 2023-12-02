@@ -68,26 +68,39 @@ Libraries used:
 
 ## Conclusions
 Avg Direction of the wind
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/895eaac0-fe55-4cdb-b429-973e57f6b5a3)
+
 Avg speed per wind direction
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/3fb9baf1-ddcc-42ed-af99-c169a68500bc)
+
 Avg temperature per wind direction
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/3fb9fb7e-1c3f-4560-85b5-43afd76c842c)
+
 High rainfall days per year
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/699d316f-4ede-425c-a83d-91bcdb74911e)
+
 Total Snowy days per year
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/e6ecb493-8141-4b5c-95f6-c76f70f63216)
+
 Average temp per year
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/38c5ca6e-e266-4deb-9fcb-392af3b28f8d)
+
 Minimum,Maximum and Average temperature per Day (Each graph for each season)
+
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/ffd7b55f-881c-4678-9701-0fe57ce888e7)
 
 
+### Temperature estimation for Christmas Day 2023
 Scenario|Degrees Estimation|
 ----------|-----------|
-2018|Monday     |
-2019|Wednesday  |
-2020|Wednesday  |
-2021|Sunday     |
-2022|Friday     |
+Scenario 1|12,24     |
+Scenario 2|9,20  |
+Scenario 3|9,82 |
+
 
