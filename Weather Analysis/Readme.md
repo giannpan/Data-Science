@@ -67,15 +67,15 @@ Libraries used:
 
 
 ## Conclusions
-Avg Direction of the wind
+Average direction of the wind
 
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/895eaac0-fe55-4cdb-b429-973e57f6b5a3)
 
-Avg speed per wind direction
+Average wind speed per wind direction
 
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/3fb9baf1-ddcc-42ed-af99-c169a68500bc)
 
-Avg temperature per wind direction
+Average temperature per wind direction
 
 ![image](https://github.com/giannpan/Data-Science/assets/119360228/3fb9fb7e-1c3f-4560-85b5-43afd76c842c)
 
