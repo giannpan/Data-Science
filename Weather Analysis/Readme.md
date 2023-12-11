@@ -13,6 +13,7 @@ The Datasets were downloaded from:
 https://www.visualcrossing.com/
 
 More specifically we are going to work with the following csv datasets 
+
 athens 2012-01-01 to 2013-12-31.csv
 
 athens 2014-01-01 to 2015-12-31.csv
